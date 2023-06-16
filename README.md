@@ -1,5 +1,6 @@
 # Olá 👋, meu nome é Holivane Cabrini!!
-👩‍💻 Sou desenvolvedora Full Stack, utilizo JavaScript e trabalho na MaisTODOS
+👩‍💻 Sou desenvolvedora Full Stack, tenho JavaScript como primeira linguagem e trabalho na MaisTODOS </br>
+📚 Aprendendo Python
 
 ## Conhecimento em destaque
 
